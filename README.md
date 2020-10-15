@@ -14,3 +14,4 @@
 13. Write a NumPy program to calculate the QR decomposition of a given matrix.
 14. Write a NumPy program to compute the condition number of a given matrix. 
 15. Write a NumPy program to compute the sum of the diagonal element of a given array. 
+16 Write a program for missing imputation with the help of hotencoder
